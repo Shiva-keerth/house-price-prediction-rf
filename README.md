@@ -62,7 +62,8 @@ Demonstrates end-to-end ML pipeline: Data → Preprocessing → Model → Deploy
 ⚠️ Dataset not included — download from Kaggle
 
 
-👤 Author
-Shiva Keerth G
-📧 gantishivakeerth@gmail.com
-🔗 GitHub | LinkedIn
+## 👤 Author
+
+**Shiva Keerth G**  
+📧 gantishivakeerth@gmail.com  
+🔗 [GitHub](https://github.com/Shiva-keerth) | [LinkedIn](https://www.linkedin.com/in/shiva-keerth-9574b92a6/)
